@@ -5,3 +5,5 @@ a instalação foi feita com o chocolatey
 após instalar o chocolatey [https://docs.chocolatey.org/en-us/choco/setup#install-with-cmd.exe]
 utilizei o comando [choco install lua52]
 existem outras formas de instalar a lua, mas enfim
+
+e para rodar a lua basta no terminal digitar lua52
