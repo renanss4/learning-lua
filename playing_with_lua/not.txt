@@ -1,2 +1,7 @@
 Este jogo é um aprendizado desta playlist no Youtube
 https://youtube.com/playlist?list=PL61kTUcYddBMmu2L127wl0ZL1P1Vui919
+
+a instalação foi feita com o chocolatey
+após instalar o chocolatey [https://docs.chocolatey.org/en-us/choco/setup#install-with-cmd.exe]
+utilizei o comando [choco install lua52]
+existem outras formas de instalar a lua, mas enfim
